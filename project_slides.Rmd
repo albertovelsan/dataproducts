@@ -24,7 +24,7 @@ Instructions:
 
 Using the data provided by Galton Families dataset, we fit a linear model to predict a child's height based on the gender and parent's average height.
 
-The application is running on (https://r2po.shinyapps.io/course_project_shiny_appreproducible_pitch/)
+The application is running on (https://albertovelsan.shinyapps.io/myApp/)
 
 ui.R, and Server.R Code in my github repository (https://github.com/albertovelsan/dataproducts)
 
